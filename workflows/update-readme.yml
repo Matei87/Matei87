@@ -1,16 +1,36 @@
-name: GitHub - Activity - Readme
+# name: GitHub - Activity - Readme
+
+# on:
+#   schedule:
+#     - cron: "0 * * * *"
+#   workflow_dispatch:
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: jamesgeorge007/github-activity-readme@master
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          
+          
+          
+          name: Waka Readme
 
 on:
   schedule:
+    # Runs at 12am IST
     - cron: "0 * * * *"
-  workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ afd7c46b-e964-4c23-aa90-c78b2af2a33f }}
+          GH_TOKEN: ${{ a8d78463e389a3adaba3e2c2bd499bbe3d8f4e8c }}
