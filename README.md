@@ -44,4 +44,5 @@ I'm Mircea and i love building websites 🙌
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+SHOW_COMMIT 
 <!--END_SECTION:waka-->
