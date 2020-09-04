@@ -22,7 +22,7 @@ I'm Mircea and i love building websites 🙌
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <div>
 
-## GitHub Stats 📈
+## 📈 Stats 
 
 <img align="center" src="https://github-readme-stats.matei87.vercel.app/api/pin/?username=Matei87&theme=radical&repo=github-readme-stats" />
 <div display="inline">
