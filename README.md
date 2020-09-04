@@ -13,3 +13,4 @@
 
 <a href="https://twitter.com/intent/follow?screen_name=SST28354251">![Twitter Follow](https://img.shields.io/twitter/follow/SST28354251?color=1DAF2&label=Follow&logo=Twitter)</a>
 
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
