@@ -26,3 +26,24 @@ I'm Mircea and i love building websites 🙌
 <a href="https://twitter.com/intent/follow?screen_name=SST28354251">![Twitter Follow](https://img.shields.io/twitter/follow/SST28354251?color=1DAF2&label=Follow&logo=Twitter)</a>
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+
+## My Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Matei87/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
