@@ -30,21 +30,9 @@ I'm Mircea and i love building websites 🙌
 ## My Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Matei87/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+1. ❌ Closed PR [#19](https://github.com//Matei87/github-activity-readme/pull/19) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
+2. 🗣 Commented on [#19](https://github.com//Matei87/github-activity-readme/issues/19) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
+3. 🗣 Commented on [#26](https://github.com//Matei87/github-activity-readme/issues/26) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
+4. 🎉 Merged PR [#26](https://github.com//Matei87/github-activity-readme/pull/26) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
+5. ❗️ Closed issue [#8](https://github.com//Matei87/github-activity-readme/issues/8) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
 <!--END_SECTION:activity-->
