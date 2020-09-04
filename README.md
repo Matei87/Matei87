@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Mircea and i love building websites 🙌
 
-🔭 I’m currently seeking looking for a job in the industry
+🔭 I’m currently looking for a job in the industry
 
 📫 How to reach me:
 
