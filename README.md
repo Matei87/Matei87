@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Mircea and i love building websites.
+I'm Mircea and i love building websites 🙌
 
 ## 🚀 Skills 🔝
 
