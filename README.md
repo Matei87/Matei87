@@ -3,6 +3,9 @@ I'm Mircea and i love building websites 🙌
 
 🔭 I’m currently looking for a job in the industry
  
+ 
+ 
+ 
 ## 🚀 Skills 
 <div display="inline">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,6 +15,9 @@ I'm Mircea and i love building websites 🙌
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <div>
+
+
+
 
 ## 📈 Stats 
 
