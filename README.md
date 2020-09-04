@@ -2,7 +2,7 @@
 
 ## 🚀 Skills 🔝
 
-<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 
 
 ## My GitHub Stats 📈
