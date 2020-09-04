@@ -42,6 +42,6 @@ I'm Mircea and i love building websites 🙌
   <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" />
 <a>
   
-<a href="https://twitter.com/intent/follow?screen_name=SST28354251">![Twitter Follow](https://img.shields.io/twitter/follow/SST28354251?color=1DAF2&label=Follow&logo=Twitter)</a>
+
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
