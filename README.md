@@ -1,5 +1,10 @@
 # Hi, I'm Mircea 👋
 
+## 🚀 Skills 🔝
+
+<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
+
+
 ## My GitHub Stats 📈
 <img align="center" src="https://github-readme-stats.matei87.vercel.app/api/pin/?username=Matei87&theme=radical&repo=github-readme-stats" />
 <img align="left" src="https://github-readme-stats.matei87.vercel.app/api/top-langs/?username=Matei87&theme=radical&show_icons=true" />
