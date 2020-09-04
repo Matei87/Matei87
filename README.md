@@ -1,7 +1,7 @@
-### Hi, I'm Mircea 👋
+# Hi, I'm Mircea 👋
 
 
-# My GitHub Stats 📈
+### My GitHub Stats 📈
 
 
 [website]; https://vercel.com/matei87/github-readme-stats
