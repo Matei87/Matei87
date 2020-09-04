@@ -2,8 +2,8 @@
 
 ## 🚀 Skills 🔝
 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ## My GitHub Stats 📈
 <img align="center" src="https://github-readme-stats.matei87.vercel.app/api/pin/?username=Matei87&theme=radical&repo=github-readme-stats" />
