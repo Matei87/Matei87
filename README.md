@@ -33,7 +33,7 @@ I'm Mircea and i love building websites 🙌
 
 ## :zap: Activity
 
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 📫 How to reach me:
