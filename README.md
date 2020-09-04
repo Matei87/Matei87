@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mircea
+### Hi, I'm Mircea 👋
 
 <!--
 **Matei87/Matei87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
