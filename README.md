@@ -1,5 +1,5 @@
 ### Hi, I'm Mircea 👋
-[website]: https://vercel.com/matei87/github-readme-stats
+[website]; https://vercel.com/matei87/github-readme-stats
 
 **Matei87/Matei87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
