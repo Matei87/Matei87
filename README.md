@@ -1,6 +1,5 @@
 # Hi, I'm Mircea 👋
 
-
 ### My GitHub Stats 📈
 
 <img align="center" src="https://github-readme-stats.matei87.vercel.app/api/pin/?username=Matei87&theme=radical&repo=github-readme-stats" />
