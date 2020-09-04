@@ -27,10 +27,6 @@ I'm Mircea and i love building websites 🙌
 
 ## :zap: Activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 <!--START_SECTION:waka--> 
 <!--END_SECTION:waka-->
 
