@@ -43,5 +43,5 @@ I'm Mircea and i love building websites 🙌
 <a>
   
 
-[![made-for-VSCode](https://img.shields.io/badge/Made%for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![made-for-VSCode](https://img.shields.io/badge/Made20%for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
