@@ -47,3 +47,4 @@ jobs:
       - uses: Matei87/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!--END_SECTION:activity-->
