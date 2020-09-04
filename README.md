@@ -31,9 +31,3 @@ I'm Mircea and i love building websites 🙌
 ## My Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com//Matei87/github-activity-readme/pull/19) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
-2. 🗣 Commented on [#19](https://github.com//Matei87/github-activity-readme/issues/19) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
-3. 🗣 Commented on [#26](https://github.com//Matei87/github-activity-readme/issues/26) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
-4. 🎉 Merged PR [#26](https://github.com//Matei87/github-activity-readme/pull/26) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
-5. ❗️ Closed issue [#8](https://github.com//Matei87/github-activity-readme/issues/8) in [Matei87/github-activity-readme](https://github.com//Matei87/github-activity-readme)
-<!--END_SECTION:activity-->
