@@ -37,7 +37,7 @@ I'm Mircea and i love building websites 🙌
 
 
 
-## :zap: Recent Activity
+## :zap: Activity
 
 <!--START_SECTION:activity-->
 
