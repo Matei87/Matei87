@@ -6,5 +6,5 @@
 <img align="center" src="https://github-readme-stats.matei87.vercel.app/api?username=Matei87&theme=radical&show_icons=true" />
 
 <a href="https://img.shields.io/twitter/follow/SST28354251?style=plastic">Twitter<a>
-  https://img.shields.io/twitter/follow/SST28354251?style=plastic
+![Twitter Follow](https://img.shields.io/twitter/follow/SST28354251?color=1DAF2&logo=tWITTER&style=plastic)
 
