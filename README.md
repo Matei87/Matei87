@@ -89,5 +89,5 @@ CSS                      1 repos             █░░░░░░░░░░�
   
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-<img href"https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%EF%B8%8F%20IN-ROMANIA-%23CD0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%EF%B8%8F%20IN-ROMANIA-%23CD0000?style=for-the-badge" />
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
