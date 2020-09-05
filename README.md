@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Matei Mircea!
-### & i love building websites 🙌
+### & i ❤️ building websites 🙌
 
 🔭 I’m currently looking for a job in the industry
 
