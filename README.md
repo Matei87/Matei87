@@ -23,8 +23,8 @@ I'm Mircea and i love building websites 🙌
 
 ## 📈 Stats 
 <div display="inline">
-<img src="https://github-readme-stats.matei87.vercel.app/api/top-langs/?username=Matei87&theme=radical&show_icons=true" />
-<img src="https://github-readme-stats.matei87.vercel.app/api?username=Matei87&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matei87&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Matei87&theme=radical&show_icons=true" />
 <div>
 
 
