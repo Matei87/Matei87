@@ -2,8 +2,8 @@
 I'm Mircea and i love building websites 🙌
 
 🔭 I’m currently looking for a job in the industry
- 📫 How to reach me:
 
+📫 How to reach me:
 <a href="https://www.linkedin.com/in/matei-m-82633047/">
   <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" />
 <a>
