@@ -31,7 +31,7 @@
 
 ## :zap: Activity
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1087-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1088-blue)
 
 **I'm a Night 🦉** 
 
